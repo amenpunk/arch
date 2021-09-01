@@ -1,0 +1,1 @@
+# arch with yay
